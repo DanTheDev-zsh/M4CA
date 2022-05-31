@@ -39,6 +39,7 @@ console.log({
 
   "byeSpeaker": byeSpeaker
 });
+
 var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
 // STEP 10: (NOTHING TO DO. ALREADY DONE FOR YOU)
